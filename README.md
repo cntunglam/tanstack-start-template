@@ -1,4 +1,4 @@
-#Tanstack Start Boilerplate
+# Tanstack Start Boilerplate
 A modern full-stack React application built with TanStack Start, featuring server-side rendering and file-based routing.
 
 ## 🚀 Features
